@@ -45,7 +45,7 @@ A social app for small, fixed groups of friends, without ads, algorithm or likes
 
 Planning app for a small company that looks after children at weddings, in production since May 2026. Requests come in, the team answers yes, no or maybe, the owners assign staff, and everyone sees their own shifts in a calendar. Live updates and push notifications keep everyone in sync.
 
-<sub>React 19 · TypeScript · Express · SQLite · roles checked on the server · 46 tests with CI · Apache-2.0</sub><br>
+<sub>React 19 · TypeScript · Express · SQLite · roles checked on the server · 121 tests with CI · Apache-2.0</sub><br>
 **[Repository →](https://github.com/Guppy997/weddingkids-showcase)** · [Security](https://github.com/Guppy997/weddingkids-showcase#sicherheit-und-datenschutz) · [Architecture](https://github.com/Guppy997/weddingkids-showcase#architektur)
 
 <sub>The repository is a showcase with demo data, the production code stays private.</sub>
