@@ -32,6 +32,15 @@ A workout tracker for home and gym. A short daily routine to tick off, plus gym 
 
 ### ▸ PROJECTS
 
+#### <a href="https://kliqtape.de"><img src="assets/icons/kliqtape.png" width="28" align="absmiddle" alt=""></a> [Kliqtape](https://kliqtape.de)
+
+A social app for small, fixed groups of friends, without ads, algorithm or likes. Every group is a cassette: side A is the group's lasting archive, side B its ongoing group chat. Instead of likes you react with a few seconds of voice, and instead of an endless feed the tape simply ends. At its heart is the mixtape: a playlist you put together for exactly one person, with a cover and a handwritten dedication.
+
+<sub>React 19 · TypeScript · Express · SQLite · installable PWA prototype, native app planned · 146 API tests with CI · AGPL-3.0</sub><br>
+**[kliqtape.de →](https://kliqtape.de)**
+
+<sub>Open source under AGPL-3.0. The repository goes public soon.</sub>
+
 #### <a href="https://github.com/Guppy997/weddingkids-showcase"><img src="assets/icons/weddingkids.png" width="28" align="absmiddle" alt=""></a> [WeddingKids](https://github.com/Guppy997/weddingkids-showcase)
 
 Planning app for a small company that looks after children at weddings, in production since May 2026. Requests come in, the team answers yes, no or maybe, the owners assign staff, and everyone sees their own shifts in a calendar. Live updates and push notifications keep everyone in sync.
